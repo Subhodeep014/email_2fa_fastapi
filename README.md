@@ -1,4 +1,4 @@
-## Make a .env file and pt all the below configs and then download and run the project
+## Make a .env file and add all the below configs and then download and run the project
 DATABASE_URL = postgresql+asyncpg://postgres:<password>@localhost/fastapi
 SECRET_KEY = 
 ALGORITHM = HS256
